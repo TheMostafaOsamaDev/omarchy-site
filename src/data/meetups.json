@@ -11,10 +11,10 @@
       "end": "2026-08-26T00:30:00.000Z",
       "timezone": null,
       "address": null,
-      "city": null,
-      "country": null,
+      "city": "São Paulo",
+      "country": "BR",
       "online": null,
-      "geo": null,
+      "geo": { "lat": -23.5506507, "lon": -46.6333824, "approximate": true },
       "hosts": ["Promovaweb", "Luiz Eduardo Oliveira Fonseca"],
       "cover": null
     },
